@@ -1,0 +1,13 @@
+{
+"companyName": "77Media",
+"productName": "Tic Tac Tobacco",
+"dataUrl": "TicTapTobacco.data.unityweb",
+"asmCodeUrl": "TicTapTobacco.asm.code.unityweb",
+"asmMemoryUrl": "TicTapTobacco.asm.memory.unityweb",
+"asmFrameworkUrl": "TicTapTobacco.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
